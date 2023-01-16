@@ -1,0 +1,50 @@
+body{
+    background-image:url("wallp.jpeg");
+    text-align: center;
+}
+header{text-align: left;}
+h1{
+    text-align: center;
+    text-shadow: 1px 1px #7a7878;
+}
+img{
+    border-radius: 100%;
+    text-align: left;
+}
+link{
+    text-align: left;
+}
+table{
+    text-align: left;
+    margin-left: 370px;
+}
+h2{
+    border-radius: 30%;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h6{
+    text-align: center;
+    text-align: 2px 2px;
+}
+p{
+    text-align: center;
+}
+h7{
+    text-align: center;
+}
+a{
+    text-align: center;
+}
+thead{text-align: center;}
